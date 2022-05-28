@@ -4,11 +4,21 @@
 
 <h2 align="center"> Atividades de Pilha e Fila em Python.</h2> 
 
----
-
 <div align="center">
   
+## Desafios:
+  
+<img height="400em" src="https://github.com/Ewertonalex/Atividades-Praticas-em-Python/blob/main/Fotos%20Desafios/517ba9bc-8da5-4aac-9ece-47765ef0d8da.jpg"><br>
+<img height="300em" src="https://github.com/Ewertonalex/Atividades-Praticas-em-Python/blob/main/Fotos%20Desafios/8b74239a-04fb-4762-a862-d41a3862ac5a.jpg"> <br>
+<img height="200em" src="https://github.com/Ewertonalex/Atividades-Praticas-em-Python/blob/main/Fotos%20Desafios/66f98b8b-bb58-4f7d-abfb-07fc37a07821.jpg">
 
+</div>
+
+---
+  
+<div align="center">
+  
+Repositório feito pelo <a>Ewerton Alexander</a>!
 | [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFcNDKGDTzDyA/profile-displayphoto-shrink_200_200/0/1650539849703?e=1657152000&v=beta&t=2zrjYi2tMt8LPA84G2FxTQQSpU1Hh-rPsF0gVrwKD4E" width=115><br><sub>Ewerton Alexander</sub>](https://www.linkedin.com/in/ewerton-alexander-oliveira-batista-780869232/) |
 | :---: |
   
