@@ -1,8 +1,12 @@
-<h1 align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+ao+meu+Repositório..." /></a>
-</h1>
+<h3 align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+a+minha+página..." /></a>
+</h3>
 
-<h2 align="center"> Atividades de Pilha e Fila em Python.</h2> 
+<h2 align="center"><img height="180em" src="https://github.com/Ewertonalex/Ewertonalex/blob/main/logo/zyro-image.png"/><br>👋 Olá! Eu sou o Ewerton Alexander...</h2>
+
+
+<h2 align="center"> Atividades Práticas de Pilha e Fila em Python.</h2>
+<p align="center"> Atividades propostas pela professora Ana Carolina Costa de Oliveira, da Disciplina de Estrutura de Dados.</p>
 
 <div align="center">
   
